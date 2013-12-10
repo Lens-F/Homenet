@@ -261,7 +261,7 @@ section{ position:relative; z-index:1;}
 }
 .img-radius {border-radius:10px;}
 
-.border-r {border-right:#e9e9ea 1px solid; margin-right:14px; padding-right:25px;}
+.border-r {border-right:#e9e9ea 1px solid; margin-right:14px; padding-top:40px; padding-right:25px;}
 .border-r-2 {border-right:#e9e9ea 1px solid; margin-right:14px; padding-right:64px;}
 .border-b {border-bottom:#ebebeb 1px solid; padding-bottom:14px; margin-bottom:11px;}
 .border-l {border-left:#e6e6e6 1px solid; padding-left:39px;}
